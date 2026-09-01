@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=500&lines=morskicorvidae" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-2D3436?style=flat-square&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Programmer-2D3436?style=flat-square&logo=code&logoColor=white" />
+<p align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Standard%20ML-00599C?style=for-the-badge&logo=ml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
